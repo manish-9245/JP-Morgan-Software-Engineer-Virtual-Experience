@@ -10,4 +10,4 @@ I completed the following tasks:
 * Bonus task: Open source contribution.
 
 ## Certificate of Completion
-![Certificate of Completition](https://postimg.cc/YvTd8f2W)
+![Capture](https://user-images.githubusercontent.com/69393822/127621471-f1b9c1c2-f1b7-4e9c-a2ed-bae54accc41c.JPG)
